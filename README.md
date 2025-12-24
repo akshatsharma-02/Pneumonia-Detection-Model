@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-:  📊 A collection of data science projects demonstrating skills in data preprocessing, EDA, machine learning, and visualization. Includes reproducible code, well-documented workflows, and actionable insights.
+# Pneumonia Detection Model
+:  📊 This project implements a deep learning–based pneumonia detection system using chest X-ray images. A convolutional neural network (CNN) with transfer learning was trained on a curated dataset of labeled radiographs to classify images as pneumonia-positive or normal. The pipeline includes data preprocessing, augmentation, model training, and evaluation using clinically relevant metrics such as accuracy, precision, recall, and ROC-AUC. The project emphasizes model performance, generalization, and interpretability through confusion matrices and visual analysis, demonstrating the practical application of computer vision in medical imaging diagnostics.
